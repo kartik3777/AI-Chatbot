@@ -1,0 +1,12 @@
+[
+  { "question": "How to reset my password?", "answer": "Click on 'Forgot Password' on the login page." },
+  { "question": "How to change my email?", "answer": "Go to your profile settings and update your email address." },
+  { "question": "How to contact support?", "answer": "Email us at support@example.com." },
+  { "question": "What are your customer service hours?", "answer": "Our customer service is available from 9am to 5pm, Monday through Friday." },
+  { "question": "How to delete my account?", "answer": "Please go to settings and click on 'Delete My Account' at the bottom." },
+  { "question": "Can I change my username?", "answer": "Usernames cannot be changed once set." },
+  { "question": "Do you have a mobile app?", "answer": "Yes, our app is available on both iOS and Android platforms." },
+  { "question": "Is my data secure?", "answer": "Yes, we use encryption and follow best practices to keep your data secure." },
+  { "question": "Can I export my data?", "answer": "Yes, go to your account settings and click on 'Export Data'." },
+  { "question": "How to subscribe to the newsletter?", "answer": "You can subscribe from the footer section of our website." }
+]
